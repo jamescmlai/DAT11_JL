@@ -32,7 +32,7 @@ You can then set up any changes you make to the repo, by using the following:
 ```
 git add -A
 git commit -m "Student name and comment"
-
+git remote add origin https://github.com/yourGitHubRepo/repoName.git
 git push remote origin
 ```
 
